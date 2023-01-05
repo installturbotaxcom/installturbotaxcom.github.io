@@ -35,7 +35,7 @@ If you are a Mac user, you can either install TurboTax using a CD/DVD or by down
 
 
 
-Before you start installing TurboTax on your computer, you need to either purchase the installation CD or download the software from the official site of [Installturbotax.com](https://installturbotaxcom.github.io/). To download TurboTax for Windows 10 OS, follow the steps mentioned under:
+Before you start installing TurboTax on your computer, you need to either purchase the installation CD or download the software from the official site of [Installturbotax.com](https://installturbotaxcom.github.io/). To download TurboTax for Windows 10 OS, follow the steps mentioned under.
 
 
 
