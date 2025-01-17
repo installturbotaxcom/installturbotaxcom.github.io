@@ -43,30 +43,30 @@ How to Download TurboTax on Windows 10
 
 Before you start installing TurboTax on your computer, you need to either purchase the installation CD or download the software from the official site of `Installturbotax.com <https://installturbotaxcom.readthedocs.io>`_. To download TurboTax for Windows 10 OS, follow the steps mentioned under:
 
-*Sign in to your TurboTax account using appropriate login credentials.
-*Locate the blue “Download” link to download the software.
-*Save the downloaded file somewhere on your computer.
-*Lastly, open the TurboTax download file to install it on your computer.
+* Sign in to your TurboTax account using appropriate login credentials.
+* Locate the blue “Download” link to download the software.
+* Save the downloaded file somewhere on your computer.
+* Lastly, open the TurboTax download file to install it on your computer.
 
 *************
 TurboTax Registration Key Features
 *************
 
-*Walks you through your administration structure, twofold checks as you go.
-*Save time by getting cash-related data including W-2s.
-*Extensively more overhauls, moreover bug fixes.
-*Preparing charge credits.
-*No obligation data required.
-*Tweaked to your fascinating condition.
-*Live ace answers by phone.
-*An enormous number of slip-up checks.
-*Completely educated with respect to the latest obligation laws.
-*Your information is secure.
-*See your obligation rebate logically.
-*Free government e-record for your fastest possible obligation rebate.
-*Your cost rebate, your heading.
-*No money utilizing money close by.
-*Finish your state return faster.
-*Go at your own movement—no plan significant.
-*Customized import of your W-2 moreover 1099 data.
-*Get a head start also.
+* Walks you through your administration structure, twofold checks as you go.
+* Save time by getting cash-related data including W-2s.
+* Extensively more overhauls, moreover bug fixes.
+* Preparing charge credits.
+* No obligation data required.
+* Tweaked to your fascinating condition.
+* Live ace answers by phone.
+* An enormous number of slip-up checks.
+* Completely educated with respect to the latest obligation laws.
+* Your information is secure.
+* See your obligation rebate logically.
+* Free government e-record for your fastest possible obligation rebate.
+* Your cost rebate, your heading.
+* No money utilizing money close by.
+* Finish your state return faster.
+* Go at your own movement—no plan significant.
+* Customized import of your W-2 moreover 1099 data.
+* Get a head start also.
