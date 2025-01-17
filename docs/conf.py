@@ -45,12 +45,12 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The theme to use for HTML and HTML Help pages.
 # Use the Read the Docs theme for better compatibility with Read the Docs.
-html_theme = 'sphinx_rtd_theme'
+# html_theme = 'sphinx_rtd_theme'
 
 # Add any paths that contain custom static files (such as style sheets)
 # here, relative to this directory. These files are copied after the built-in
 # static files, so a file named "default.css" will overwrite the built-in one.
-html_static_path = ['_static']
+# html_static_path = ['_static']
 
 # -- Options for Read the Docs -----------------------------------------------
 
