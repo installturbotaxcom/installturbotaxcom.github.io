@@ -1,5 +1,5 @@
 
-.. image:: images/installturbotaxcom.png
+.. image:: images/iinstallturbotaxcom.png
 	  :width: 1000px    
 	  :align: center 
 	  :height: 500px
