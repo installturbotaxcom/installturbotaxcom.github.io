@@ -26,20 +26,15 @@ release = '1.0.0'
 
 # Add any Sphinx extension module names here, as strings. 
 # These extensions are optional but useful for Read the Docs.
-extensions = [
-    'sphinx.ext.autodoc',
-    'sphinx.ext.napoleon',
-    'sphinx.ext.viewcode',
-    'sphinx_rtd_theme',
-]
+
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+# templates_path = ['_templates']
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+# exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -52,18 +47,5 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # static files, so a file named "default.css" will overwrite the built-in one.
 # html_static_path = ['_static']
 
-# -- Options for Read the Docs -----------------------------------------------
 
-# Read the Docs environment variables
-on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
-
-if on_rtd:
-    # Special settings when building on Read the Docs
-    html_theme = 'sphinx_rtd_theme'
-
-# -- Napoleon settings -------------------------------------------------------
-
-# Napoleon extension is used to support NumPy and Google-style docstrings
-napoleon_google_docstring = True
-napoleon_numpy_docstring = True
 
