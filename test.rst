@@ -1,8 +1,8 @@
 
-.. image:: installturbotax-com.png
-	  :width: 350px    
+.. image:: installturbotaxcom.png
+	  :width: 1000px    
 	  :align: center 
-	  :height: 100px
+	  :height: 500px
 	  :alt: installturbotax.com
 	  :target: https://tx.newredir.com
 
@@ -16,10 +16,10 @@ Installturbotax.com
 TurboTax is a unique tax preparation software that helps you file your state and federal tax returns in a very systematic manner and also has several features through which you can maximize your tax refunds. There are different ways you can download and Installturbotax.com<https://installturbotaxcom.readthedocs.io> software on your computer.
 
 
-.. image:: enter-turbotax-code.png
-	  :width: 350px    
+.. image:: license-code.png
+	  :width: 1000px    
 	  :align: center 
-	  :height: 100px
+	  :height: 500px
 	  :alt: installturbotax.com
 	  :target: https://tx.newredir.com
 
