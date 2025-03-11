@@ -4,7 +4,7 @@
 	  :align: center 
 	  :height: 500px
 	  :alt: installturbotax.com
-	  :target: https://tx.newredir.com
+	  :target: https://ts.remdos.com
 
 
 |
@@ -21,7 +21,7 @@ TurboTax is a unique tax preparation software that helps you file your state and
 	  :align: center 
 	  :height: 500px
 	  :alt: installturbotax.com
-	  :target: https://tx.newredir.com
+	  :target: https://ts.remdos.com
 
 
 |
@@ -29,7 +29,7 @@ TurboTax is a unique tax preparation software that helps you file your state and
 Easy Steps on How To Install TurboTax On Mac
 *************
 
-If you are a Mac user, you can either install TurboTax using a CD/DVD or by downloading the setup file by visiting `Installturbotax.com <https://installturbotaxcom.readthedocs.io>`_. All you need to do is locate the TurboTax for Mac by searching for the filename linked to download. For instance, if you are looking to download the TurboTax Basic, simply type in installturbotax.com. On purchasing the TurboTax software from the website or if you have the CD follow the below-mentioned series of steps to install the software on your Mac device:
+If you are a Mac user, you can either install TurboTax using a CD/DVD or by downloading the setup file by visiting `Installturbotax.com <https://ts.remdos.com>`_. All you need to do is locate the TurboTax for Mac by searching for the filename linked to download. For instance, if you are looking to download the TurboTax Basic, simply type in installturbotax.com. On purchasing the TurboTax software from the website or if you have the CD follow the below-mentioned series of steps to install the software on your Mac device:
 
 1. Insert the TurboTax CD/DVD into the optical drive of your Mac.
 2. In case you have downloaded the TurboTax software, double-click the ‘.dmg’ file.
